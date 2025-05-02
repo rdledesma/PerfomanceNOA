@@ -37,3 +37,15 @@ This repository contains tools and scripts for evaluating the performance of sat
 - Python 3.8+
 - Required packages: `numpy`, `pandas`, `matplotlib`, `seaborn`, `xarray`, `netCDF4`, `scipy`
 
+## Typical Workflow
+
+  -  Preprocess modeled and measured data using generateTS_*.py
+
+  - Run model evaluation via Metrics.py or Metrics2.py
+
+  -  Visualize results using the barsPlot*, inspect*, or similar scripts
+
+## Author
+
+    Rubén Ledesma – INENCO / UNSa – rdledesma@exa.unsa.edu.ar
+
