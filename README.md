@@ -13,7 +13,7 @@ This repository contains tools and scripts for evaluating the performance of sat
 
         Rubén Ledesma – INENCO / UNSa – rdledesma@exa.unsa.edu.ar
 
-        Rodrigo Alonso-Suárez – Solar Energy Laboratory, CENUR Litoral Norte, University of the Republic, Uruguay – r.alonso.suarez@gmail.com
+        Rodrigo Alonso-Suárez – Solar Energy Laboratory, CENUR Litoral Norte, University of the Republic, Uruguay – r.alonso.suarez@gmail.com, rodrigoa@fing.edu.uy
 
         Germán Salazar – INENCO / UNSa – german.salazar@conicet.gov.ar
 
